@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/abc_list_divider_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/notification_action_background.xml",
+        "source": "com.chavesgu.scan-core-1.6.0-2:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-v21/abc_edit_text_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable-v21/abc_edit_text_material.xml"
+    }
+]

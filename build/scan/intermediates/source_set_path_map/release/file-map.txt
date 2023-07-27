@@ -1,0 +1,17 @@
+com.chavesgu.scan-jetified-window-java-1.0.0-beta04-0 C:\Users\Yousuf\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.chavesgu.scan-jetified-scanplus-2.1.0.300-1 C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\res
+com.chavesgu.scan-core-1.6.0-2 C:\Users\Yousuf\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.chavesgu.scan-jetified-appcompat-resources-1.2.0-3 C:\Users\Yousuf\.gradle\caches\transforms-3\5ebaeb5d364ce2c623be4262cc3b2f87\transformed\jetified-appcompat-resources-1.2.0\res
+com.chavesgu.scan-jetified-annotation-experimental-1.1.0-4 C:\Users\Yousuf\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.chavesgu.scan-jetified-zxing-android-embedded-4.3.0-5 C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\res
+com.chavesgu.scan-jetified-window-1.0.0-beta04-6 C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.chavesgu.scan-appcompat-1.2.0-7 C:\Users\Yousuf\.gradle\caches\transforms-3\e937b68345cad7d61818d312b6b4c7ca\transformed\appcompat-1.2.0\res
+com.chavesgu.scan-jetified-network-common-4.0.20.301-8 C:\Users\Yousuf\.gradle\caches\transforms-3\fa32e72cd00221916c5cf462cb558986\transformed\jetified-network-common-4.0.20.301\res
+com.chavesgu.scan-main-9 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\main\res
+com.chavesgu.scan-release-10 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\scan-1.6.0\android\src\release\res
+com.chavesgu.scan-pngs-11 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\generated\res\pngs\release
+com.chavesgu.scan-resValues-12 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\generated\res\resValues\release
+com.chavesgu.scan-rs-13 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\generated\res\rs\release
+com.chavesgu.scan-mergeReleaseResources-14 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.chavesgu.scan-mergeReleaseResources-15 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.chavesgu.scan-merged_res-16 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\merged_res\release

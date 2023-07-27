@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/menu/example_menu.xml",
+        "source": "com.nb.nb_utils-core-1.7.0-5:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/menu/example_menu2.xml",
+        "source": "com.nb.nb_utils-core-1.7.0-5:/menu/example_menu2.xml"
+    }
+]

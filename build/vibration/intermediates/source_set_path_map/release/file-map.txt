@@ -1,0 +1,12 @@
+com.benjaminabel.vibration-jetified-window-java-1.0.0-beta04-0 C:\Users\Yousuf\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.benjaminabel.vibration-core-1.6.0-1 C:\Users\Yousuf\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.benjaminabel.vibration-jetified-annotation-experimental-1.1.0-2 C:\Users\Yousuf\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.benjaminabel.vibration-jetified-window-1.0.0-beta04-3 C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.benjaminabel.vibration-main-4 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.7.7\android\src\main\res
+com.benjaminabel.vibration-release-5 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.7.7\android\src\release\res
+com.benjaminabel.vibration-pngs-6 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\generated\res\pngs\release
+com.benjaminabel.vibration-resValues-7 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\generated\res\resValues\release
+com.benjaminabel.vibration-rs-8 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\generated\res\rs\release
+com.benjaminabel.vibration-mergeReleaseResources-9 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.benjaminabel.vibration-mergeReleaseResources-10 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.benjaminabel.vibration-merged_res-11 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\vibration\intermediates\merged_res\release

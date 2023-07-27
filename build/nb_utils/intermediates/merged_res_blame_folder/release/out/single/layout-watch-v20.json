@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.nb.nb_utils-appcompat-1.4.2-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.nb.nb_utils-appcompat-1.4.2-4:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

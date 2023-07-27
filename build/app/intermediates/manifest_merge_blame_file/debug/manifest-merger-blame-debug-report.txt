@@ -1,0 +1,387 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bankappnew"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\Yousuf\Desktop\bank app new\bankappnew\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\Yousuf\Desktop\bank app new\bankappnew\android\app\src\debug\AndroidManifest.xml:7:22-64
+16    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+16-->C:\Users\Yousuf\Desktop\bank app new\bankappnew\android\app\src\main\AndroidManifest.xml:3:5-71
+16-->C:\Users\Yousuf\Desktop\bank app new\bankappnew\android\app\src\main\AndroidManifest.xml:3:22-69
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:nb_utils] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+17-->[:nb_utils] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\nb_utils\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->[:scan] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-65
+18-->[:scan] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-62
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->[:scan] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-66
+19-->[:scan] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\scan\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-63
+20
+21    <meta-data
+21-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-12:29
+22        android:name="flutterEmbedding"
+22-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-40
+23        android:value="2" /> <!-- suppress DeprecatedClassUsageInspection -->
+23-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-26
+24    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+24-->[androidx.biometric:biometric:1.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\c44a989e5c50bfc6cf434d229b546c7f\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+24-->[androidx.biometric:biometric:1.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\c44a989e5c50bfc6cf434d229b546c7f\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
+25
+26    <uses-feature
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+27        android:glEsVersion="0x00020000"
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+28        android:required="true" />
+28-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+29
+30    <queries>
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+31
+32        <!-- Needs to be explicitly declared on Android R+ -->
+33        <package android:name="com.google.android.apps.maps" />
+33-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+33-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+34    </queries>
+35
+36    <permission
+36-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+37        android:name="com.example.bankappnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+37-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+38        android:protectionLevel="signature" />
+38-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+39
+40    <uses-permission android:name="com.example.bankappnew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+40-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+40-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+41    <uses-feature
+41-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+42        android:name="android.hardware.camera"
+42-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+43        android:required="false" />
+43-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+44    <uses-feature
+44-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+45        android:name="android.hardware.camera.front"
+45-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+46        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+46-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+47    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+48    <uses-feature
+48-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+49        android:name="android.hardware.camera.autofocus"
+49-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+50        android:required="false" />
+50-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+51    <uses-feature
+51-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+52        android:name="android.hardware.camera.flash"
+52-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+53        android:required="false" />
+53-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+54    <uses-feature
+54-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+55        android:name="android.hardware.screen.landscape"
+55-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+56        android:required="false" />
+56-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+57    <uses-feature
+57-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+58        android:name="android.hardware.wifi"
+58-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+59        android:required="false" />
+59-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+60
+61    <application
+62        android:name="android.app.Application"
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.10.1] C:\Users\Yousuf\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+64        android:debuggable="true"
+65        android:icon="@mipmap/ic_launcher"
+66        android:label="bankappnew" >
+67        <activity
+68            android:name="com.example.bankappnew.MainActivity"
+69            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+70            android:exported="true"
+71            android:hardwareAccelerated="true"
+72            android:launchMode="singleTop"
+73            android:theme="@style/LaunchTheme"
+74            android:windowSoftInputMode="adjustResize" >
+75
+76            <!--
+77                 Specifies an Android theme to apply to this Activity as soon as
+78                 the Android process has started. This theme is visible to the user
+79                 while the Flutter UI initializes. After that, this theme continues
+80                 to determine the Window background behind the Flutter UI.
+81            -->
+82            <meta-data
+83                android:name="io.flutter.embedding.android.NormalTheme"
+84                android:resource="@style/NormalTheme" />
+85
+86            <intent-filter>
+87                <action android:name="android.intent.action.MAIN" />
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+90            </intent-filter>
+91        </activity>
+92        <!--
+93             Don't delete the meta-data below.
+94             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+95        -->
+96        <meta-data
+96-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-12:29
+97            android:name="flutterEmbedding"
+97-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-40
+98            android:value="2" />
+98-->[:social_share] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\social_share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-26
+99
+100        <provider
+100-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+101            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+101-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+102            android:authorities="com.example.bankappnew.flutter.image_provider"
+102-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+103            android:exported="false"
+103-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+104            android:grantUriPermissions="true" >
+104-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+105            <meta-data
+105-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+106                android:name="android.support.FILE_PROVIDER_PATHS"
+106-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+107                android:resource="@xml/flutter_image_picker_file_paths" />
+107-->[:image_picker_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+108        </provider>
+109
+110        <activity
+110-->[:url_launcher_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+111            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+111-->[:url_launcher_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+112            android:exported="false"
+112-->[:url_launcher_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+113            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+113-->[:url_launcher_android] C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+114        <activity
+114-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:23:9-27:75
+115            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+115-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:24:13-93
+116            android:excludeFromRecents="true"
+116-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:25:13-46
+117            android:exported="false"
+117-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:26:13-37
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:27:13-72
+119        <!--
+120            Service handling Google Sign-In user revocation. For apps that do not integrate with
+121            Google Sign-In, this service will never be started.
+122        -->
+123        <service
+123-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:33:9-37:51
+124            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+124-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:34:13-89
+125            android:exported="true"
+125-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:35:13-36
+126            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+126-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:36:13-107
+127            android:visibleToInstantApps="true" /> <!-- Needs to be explicitly declared on P+ -->
+127-->[com.google.android.gms:play-services-auth:20.4.0] C:\Users\Yousuf\.gradle\caches\transforms-3\fd63fa755a0c7f97a7fa210b01829849\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:37:13-48
+128        <uses-library
+128-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+129            android:name="org.apache.http.legacy"
+129-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+130            android:required="false" />
+130-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+131
+132        <activity
+132-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Yousuf\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+133            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+133-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Yousuf\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+134            android:exported="false"
+134-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Yousuf\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+135            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+135-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Yousuf\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+136
+137        <meta-data
+137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+138            android:name="com.google.android.gms.version"
+138-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+139            android:value="@integer/google_play_services_version" />
+139-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Yousuf\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+140
+141        <provider
+141-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+142            android:name="androidx.startup.InitializationProvider"
+142-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+143            android:authorities="com.example.bankappnew.androidx-startup"
+143-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+144            android:exported="false" >
+144-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+145            <meta-data
+145-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+146                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+146-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+147                android:value="androidx.startup" />
+147-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Yousuf\.gradle\caches\transforms-3\bd44fb57d7c3686a718759dd3e583490\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+148            <meta-data
+148-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yousuf\.gradle\caches\transforms-3\61256e84d873788e3787e3ff3bbeec42\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+149                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+149-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yousuf\.gradle\caches\transforms-3\61256e84d873788e3787e3ff3bbeec42\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+150                android:value="androidx.startup" />
+150-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Yousuf\.gradle\caches\transforms-3\61256e84d873788e3787e3ff3bbeec42\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+151            <meta-data
+151-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+152                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+152-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+153                android:value="androidx.startup" />
+153-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+154        </provider>
+155
+156        <uses-library
+156-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+157            android:name="androidx.window.extensions"
+157-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+158            android:required="false" />
+158-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+159        <uses-library
+159-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+160            android:name="androidx.window.sidecar"
+160-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+161            android:required="false" />
+161-->[androidx.window:window:1.0.0-beta04] C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+162
+163        <receiver
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+164            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+164-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+165            android:directBootAware="false"
+165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+166            android:enabled="true"
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+167            android:exported="true"
+167-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+168            android:permission="android.permission.DUMP" >
+168-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+169            <intent-filter>
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+170                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+170-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+170-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+171            </intent-filter>
+172            <intent-filter>
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+173                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+173-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+173-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+174            </intent-filter>
+175            <intent-filter>
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+176                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+176-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+176-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+177            </intent-filter>
+178            <intent-filter>
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+179                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\36aadc6eb473a87ded89a16c724c2dd8\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+180            </intent-filter>
+181        </receiver>
+182
+183        <meta-data
+183-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:14:9-16:40
+184            android:name="huawei_module_scankit_local"
+184-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:15:13-55
+185            android:value="20100300" />
+185-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:16:13-37
+186        <meta-data
+186-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:17:9-19:50
+187            android:name="huawei_module_scankit_sdk_version"
+187-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:18:13-61
+188            android:value="scanplus:2.1.0.300" />
+188-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:19:13-47
+189        <meta-data
+189-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:20:9-22:50
+190            android:name="com.huawei.hms.client.service.name:scanplus"
+190-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:21:13-71
+191            android:value="scanplus:2.1.0.300" />
+191-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:22:13-47
+192        <meta-data
+192-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:23:9-25:33
+193            android:name="com.huawei.hms.min_api_level:scanplus:huawei_module_scankit"
+193-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:24:13-87
+194            android:value="1" />
+194-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:25:13-30
+195        <meta-data
+195-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:26:9-28:33
+196            android:name="com.huawei.hms.min_api_level:scanplus:hmscore"
+196-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:27:13-73
+197            android:value="1" />
+197-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:28:13-30
+198
+199        <activity android:name="com.huawei.hms.hmsscankit.ScanKitActivity" />
+199-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:30:9-78
+199-->[com.huawei.hms:scanplus:2.1.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\0f03245c84823d956a3941e4cfb1575f\transformed\jetified-scanplus-2.1.0.300\AndroidManifest.xml:30:19-75
+200        <activity
+200-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+201            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+201-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+202            android:clearTaskOnLaunch="true"
+202-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+203            android:screenOrientation="sensorLandscape"
+203-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+204            android:stateNotNeeded="true"
+204-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+205            android:theme="@style/zxing_CaptureTheme"
+205-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+206            android:windowSoftInputMode="stateAlwaysHidden" />
+206-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Yousuf\.gradle\caches\transforms-3\a8fb2b2b7b53df54e4065a4485931292\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+207
+208        <meta-data
+208-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:12:9-14:54
+209            android:name="com.huawei.hms.client.service.name:dynamic-api"
+209-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:13:13-74
+210            android:value="dynamic-api:1.0.13.303" />
+210-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:14:13-51
+211        <meta-data
+211-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:15:9-17:33
+212            android:name="com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader"
+212-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:16:13-96
+213            android:value="2" />
+213-->[com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\Yousuf\.gradle\caches\transforms-3\6b663bdd9c95208e8e458b54f1cd75b3\transformed\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:17:13-30
+214
+215        <provider
+215-->[com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\Yousuf\.gradle\caches\transforms-3\9956a8471714a378843196f30649b0d2\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:13:9-16:40
+216            android:name="com.huawei.hms.mlsdk.common.provider.MLInitializerProvider"
+216-->[com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\Yousuf\.gradle\caches\transforms-3\9956a8471714a378843196f30649b0d2\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:14:13-86
+217            android:authorities="com.example.bankappnew.MLInitializerProvider"
+217-->[com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\Yousuf\.gradle\caches\transforms-3\9956a8471714a378843196f30649b0d2\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:15:13-73
+218            android:exported="false" />
+218-->[com.huawei.hms:ml-computer-sdkbase-inner:2.0.5.304] C:\Users\Yousuf\.gradle\caches\transforms-3\9956a8471714a378843196f30649b0d2\transformed\jetified-ml-computer-sdkbase-inner-2.0.5.304\AndroidManifest.xml:16:13-37
+219        <provider
+219-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:11:9-14:40
+220            android:name="com.huawei.agconnect.core.provider.AGConnectInitializeProvider"
+220-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:12:13-90
+221            android:authorities="com.example.bankappnew.AGCInitializeProvider"
+221-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:13:13-73
+222            android:exported="false" />
+222-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:14:13-37
+223
+224        <service
+224-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:16:9-18:40
+225            android:name="com.huawei.agconnect.core.ServiceDiscovery"
+225-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:17:13-70
+226            android:exported="false" />
+226-->[com.huawei.agconnect:agconnect-core:1.4.0.300] C:\Users\Yousuf\.gradle\caches\transforms-3\2883257b018dc50c3c3452b1e4d28c29\transformed\jetified-agconnect-core-1.4.0.300\AndroidManifest.xml:18:13-37
+227    </application>
+228
+229</manifest>

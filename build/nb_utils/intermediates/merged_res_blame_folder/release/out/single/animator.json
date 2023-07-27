@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_open_enter.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_close_enter.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_fade_exit.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_close_exit.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_fade_enter.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-merged_res-22:/animator/fragment_open_exit.xml",
+        "source": "com.nb.nb_utils-fragment-1.3.6-2:/animator/fragment_open_exit.xml"
+    }
+]

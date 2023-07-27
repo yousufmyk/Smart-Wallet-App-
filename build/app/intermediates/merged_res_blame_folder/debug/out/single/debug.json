@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.bankappnew.app-merged_res-37:/mipmap-xxhdpi_applauncher.png.flat",
+        "source": "com.example.bankappnew.app-main-31:/mipmap-xxhdpi/applauncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-hdpi_applouncher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-hdpi\\applouncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xxxhdpi_applouncher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xxxhdpi\\applouncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-mdpi_applouncher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-mdpi\\applouncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bankappnew.app-merged_res-37:/mipmap-xxxhdpi_applauncher.png.flat",
+        "source": "com.example.bankappnew.app-main-31:/mipmap-xxxhdpi/applauncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xxhdpi_applouncher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xxhdpi\\applouncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xhdpi_applouncher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xhdpi\\applouncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bankappnew.app-merged_res-37:/mipmap-mdpi_applauncher.png.flat",
+        "source": "com.example.bankappnew.app-main-31:/mipmap-mdpi/applauncher.png"
+    },
+    {
+        "merged": "com.example.bankappnew.app-merged_res-37:/mipmap-hdpi_applauncher.png.flat",
+        "source": "com.example.bankappnew.app-main-31:/mipmap-hdpi/applauncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yousuf\\.gradle\\daemon\\7.5\\com.example.bankappnew.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.bankappnew.app-merged_res-37:/mipmap-xhdpi_applauncher.png.flat",
+        "source": "com.example.bankappnew.app-main-31:/mipmap-xhdpi/applauncher.png"
+    }
+]

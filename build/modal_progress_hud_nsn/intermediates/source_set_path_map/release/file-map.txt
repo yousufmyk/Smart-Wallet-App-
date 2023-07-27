@@ -1,0 +1,12 @@
+com.walle.modal_progress_hud_nsn-jetified-window-java-1.0.0-beta04-0 C:\Users\Yousuf\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.walle.modal_progress_hud_nsn-core-1.6.0-1 C:\Users\Yousuf\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.walle.modal_progress_hud_nsn-jetified-annotation-experimental-1.1.0-2 C:\Users\Yousuf\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.walle.modal_progress_hud_nsn-jetified-window-1.0.0-beta04-3 C:\Users\Yousuf\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.walle.modal_progress_hud_nsn-main-4 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.3.0\android\src\main\res
+com.walle.modal_progress_hud_nsn-release-5 C:\Users\Yousuf\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.3.0\android\src\release\res
+com.walle.modal_progress_hud_nsn-pngs-6 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\generated\res\pngs\release
+com.walle.modal_progress_hud_nsn-resValues-7 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\generated\res\resValues\release
+com.walle.modal_progress_hud_nsn-rs-8 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\generated\res\rs\release
+com.walle.modal_progress_hud_nsn-mergeReleaseResources-9 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.walle.modal_progress_hud_nsn-mergeReleaseResources-10 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.walle.modal_progress_hud_nsn-merged_res-11 C:\Users\Yousuf\Desktop\bank app new\bankappnew\build\modal_progress_hud_nsn\intermediates\merged_res\release

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-ldpi-v4/scankit_ic_light_on.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable-ldpi-v4/scankit_ic_light_on.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable-ldpi-v4/scankit_hivision_light.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable-ldpi-v4/scankit_hivision_light.png"
+    }
+]

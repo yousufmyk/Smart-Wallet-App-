@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flashlight_off.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flashlight_off.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_ic_back.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_ic_back.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flashlight_on.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flashlight_on.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/notification_bg_low.xml",
+        "source": "com.chavesgu.scan-core-1.6.0-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_edit_text_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_colored_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_scan_light.webp",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_scan_light.webp"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flashlight_layer_on.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flashlight_layer_on.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_radio_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flashlight_layer_off.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flashlight_layer_off.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_ic_photo.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_ic_photo.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_list_divider_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/tooltip_frame_dark.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ratingbar_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/notification_icon_background.xml",
+        "source": "com.chavesgu.scan-core-1.6.0-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_textfield_search_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_vector_test.xml",
+        "source": "com.chavesgu.scan-jetified-appcompat-resources-1.2.0-3:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_clear_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_dialog_bg.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_dialog_bg.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_appbar_pressed_shape.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_appbar_pressed_shape.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_dialog_material_background.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_back.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_back.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_check_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_scan_tail.webp",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_scan_tail.webp"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flash_selected_selector2.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flash_selected_selector2.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/notification_bg.xml",
+        "source": "com.chavesgu.scan-core-1.6.0-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/notification_tile_bg.xml",
+        "source": "com.chavesgu.scan-core-1.6.0-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_photo.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_photo.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/tooltip_frame_light.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_appbar_pressed_selected.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_appbar_pressed_selected.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_text_cursor_material.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_ic_light_off.png",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_ic_light_off.png"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.chavesgu.scan-appcompat-1.2.0-7:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.chavesgu.scan-merged_res-15:/drawable/scankit_flash_selector.xml",
+        "source": "com.chavesgu.scan-jetified-scanplus-2.1.0.300-1:/drawable/scankit_flash_selector.xml"
+    }
+]
