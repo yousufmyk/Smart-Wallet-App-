@@ -1,4 +1,4 @@
-https://drive.google.com/uc?export=view&id=1usM4IUa3hrM0WVpqXRMI4RDAUqGZd9ra
+<img src="https://drive.google.com/uc?export=view&id=1usM4IUa3hrM0WVpqXRMI4RDAUqGZd9ra" alt="App Screenshot" width="300" height="200">
 
 
 # Smart Banking App 
