@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1usM4IUa3hrM0WVpqXRMI4RDAUqGZd9ra" alt="App Screenshot" width="300" height="200">
+<img src="https://i.ibb.co/qBYJcbm/Tuesday-05-Dec-2023-20-21-55.png" alt="App Screenshot" width="300" height="200">
 
 
 # Smart Banking App 
