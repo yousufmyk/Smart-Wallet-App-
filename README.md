@@ -1,4 +1,4 @@
-![App Screenshot 1](https://drive.google.com/uc?export=view&id=1usM4IUa3hrM0WVpqXRMI4RDAUqGZd9ra)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1usM4IUa3hrM0WVpqXRMI4RDAUqGZd9ra)
 
 # Smart Banking App 
 A mobile banking application built with ❤️ by Mohamed Yousuf
